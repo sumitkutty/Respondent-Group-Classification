@@ -1,7 +1,7 @@
 # Respondent-Group-Classification
 This project was given as a part of an assessment for my unnamed Company interview.
 
-## Objective: Classification of the respondents into their respective classes. 
+## Objective : Classification of the respondents into their respective classes. 
 
 ## Dataset: The dataset was provided by the Company and the features in the dataset. The features are named randomly and hence, do not give any information about the dataset.
 * No of features: 301
@@ -33,14 +33,18 @@ This project was given as a part of an assessment for my unnamed Company intervi
 ## Predictive Modelling
 * **Trial and Error**: Try multiple algoithms while monitoring the performance is a good way of starting out to build a model after the dataset is ready.
 <br />
+
 * **K-Cross Validation**: This method is great to check the performance of a model. Rather than using a fixed validation set to validate the performance. k-cross validation can be used to create folds of the training set to evaluate the performance.
 <br />
+
 * **ML Algorithm**: Logistic Regression, KNN, Random Forest were used to train the dataset. All performed fairly well. Random Forest performed the best out of all.
+<br />
 
 ## Evaluation:
 * **Metrics**: Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
 * Random Forest: 98.15
 * KNN: 95.79
 * Logistic Regression: 92.52
+
 
 
