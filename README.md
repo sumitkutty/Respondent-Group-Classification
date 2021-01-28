@@ -30,3 +30,17 @@ This project was given as a part of an assessment for my unnamed Company intervi
 * As the number of features were large, it has to beneficial to reduce the no of dimensions of the dataset. Enter, the most famous dimensionality reduction algorithm, Principal Component Analysis. The 300 features were reduced to a mere 30 principal components. The PCA parameters obtained while transforming the training set was used to transform the test set as well, to avoid data leakage.
 <br />
 
+## Predictive Modelling
+* **Trial and Error**: Try multiple algoithms while monitoring the performance is a good way of starting out to build a model after the dataset is ready.
+<br />
+* **K-Cross Validation**: This method is great to check the performance of a model. Rather than using a fixed validation set to validate the performance. k-cross validation can be used to create folds of the training set to evaluate the performance.
+<br />
+* **ML Algorithm**: Logistic Regression, KNN, Random Forest were used to train the dataset. All performed fairly well. Random Forest performed the best out of all.
+
+## Evaluation:
+* **Metrics**: Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
+* Random Forest: 98.15
+* KNN: 95.79
+* Logistic Regression: 92.52
+
+
