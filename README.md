@@ -2,7 +2,7 @@
 This project was given as a part of an assessment for my unnamed Company interview.
 
 ## Objective : 
-#### Classification of the respondents into their respective classes. 
+#### Classification of the respondents into their respective groups. 
 
 ## Dataset: 
 #### The dataset was provided by the Company and the features in the dataset. The features are named randomly and hence, do not give any information about the dataset.
