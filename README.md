@@ -12,7 +12,7 @@ This project was given as a part of an assessment for my unnamed Company intervi
 
 ## Preprocessing:
 * Null Values: The features with more than 800 null values were eliminated. Considering the number of observations, 800 is a fair number. The features with less than 800 null value were dealt with separately. The parameters obtained while handling null values were used to transform the null values in the test set. The numerical features were imputed with their means, and the categorical features were imputed with the most frequest occurring values.
-><br />
+<br />
 * Feature Handling: 'Respondent_id' was removed from the dataset as it does not assist in the predictive process. The 'Year' Feature was also removed as the entire dataset is recorded for a single year.
 <br />
 * Encoding: The categorical variables, 'month' and 'var9' were one-hot encoded.\
