@@ -40,12 +40,13 @@ This project was given as a part of an assessment for my unnamed Company intervi
 * **ML Algorithm**: Logistic Regression, KNN, Random Forest were used to train the dataset. All performed fairly well. Random Forest performed the best out of all.
 <br />
 
-* **Hyperparameter Tuning**: The random forest model was tuned to fit the best hyperparameters. GridSearch cross validation was used to tune multiple hyperparamters like max_depth, min impurity decrease etc.
+* **Hyperparameter Tuning** : The random forest model was tuned to fit the best hyperparameters. GridSearch cross validation was used to tune multiple hyperparamters like max_depth, min impurity decrease etc.
 
 
 <br />
+
 ## Evaluation:
-* **Metrics**: Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
+* **Metrics** : Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
 * Random Forest: 98.15
 * KNN: 95.79
 * Logistic Regression: 92.52
