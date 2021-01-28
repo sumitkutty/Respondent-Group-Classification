@@ -48,7 +48,11 @@ This project was given as a part of an assessment for my unnamed Company intervi
 <br />
 
 ## Evaluation:
-* <font size="+19">**Metrics**</font> : Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
+* **Metrics**: Accuracy, Classification report, Recall. Below are the accuracies achieved for the training set.
+
+<br />
+
+## Performances:
 * Random Forest: 98.15
 * KNN: 95.79
 * Logistic Regression: 92.52
