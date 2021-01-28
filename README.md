@@ -27,7 +27,7 @@ This project was given as a part of an assessment for my unnamed Company intervi
 <br />
 
 ## Dimensionality Reduction: 
-* As the number of features were large, it has to beneficial to reduce the no of dimensions of the dataset. Enter, the most famous dimensionality reduction algorithm, Principal Component Analysis. The 300 features were reduced to a mere 30 principal components. The PCA parameters obtained while transforming the training set was used to transform the test set as well, to avoid data leakage.
+* **PCA**: As the number of features were large, it has to beneficial to reduce the no of dimensions of the dataset. Enter, the most famous dimensionality reduction algorithm, Principal Component Analysis. The 300 features were reduced to a mere 30 principal components. The PCA parameters obtained while transforming the training set was used to transform the test set as well, to avoid data leakage.
 <br />
 
 ## Predictive Modelling
